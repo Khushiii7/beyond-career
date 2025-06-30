@@ -2,7 +2,7 @@
 A modern, responsive landing page for Beyond Career.
 
 ## 🚀 Live Demo
-[View the deployed site here](https://your-vercel-url.com)
+[View the deployed site here](https://beyond-career-xi.vercel.app)
 
 
 ## Technologies Used
